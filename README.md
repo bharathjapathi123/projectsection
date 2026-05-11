@@ -14,8 +14,6 @@ A static webpage showcasing popular shopping platforms like Amazon, Ikea, Bewako
 
 🌐 Live Demo
 
-
-
 📌 Project Purpose
 This project was created to practice basic frontend development concepts such as layout design, styling, and organizing content using HTML and CSS.
 
@@ -27,4 +25,5 @@ This is a static webpage. Clicking on the stores does not perform any action.
 - Make the page responsive for all devices
 - Add hover effects and animations
 - Use JavaScript to add interactivity
+
 
